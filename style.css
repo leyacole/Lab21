@@ -1,0 +1,21 @@
+h1 {
+	font-size: 50
+}
+
+img {
+	border: 10px solid black;
+	 	 	 	
+}
+
+ h2 {
+ 	font-family: "Merriweather", serif;
+	font-size: 25px;
+}
+
+a {
+	font-size: 20px;
+}
+
+body{
+	background-color: lightgray;
+}
